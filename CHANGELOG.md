@@ -5,6 +5,17 @@ All notable changes to stuxdigital.github.io are documented here.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Date Versioning](https://datevers.ing) since v26.10.23 (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v26.11.06
+
+### Changed
+
+- `README.md` is rewritten to describe this repo, Stux.Digital GitHub Pages Redirect, instead of generic template instructions: it sends stuxdigital.github.io to github.com/StuxDigital (every path lands on the profile; paths aren't carried over), deployed by `.github/workflows/pages.yml`
+- The logo in `README.md` and `CONTRIBUTING.md` uses the light/dark `<picture>` style
+
+### Fixed
+
+- `README.md`'s license said "Feel free to use this template"; it now matches the other Stux.Digital repos: © Stux.Group, all rights reserved
+
 ## v26.10.23
 
 ### Added
