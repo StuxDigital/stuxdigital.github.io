@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://global.media.stux.digital/logo.png" height="80" alt="Stux.Digital Logo">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stux.digital/logo-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stux.digital/logo-dark.png"><img src="https://global.media.stux.digital/logo-dark.png" height="80" alt="Stux.Digital Logo"></picture>
 </p>
 
-# Contributing to stuxdigital.github.io
+# Contributing to Stux.Digital GitHub Pages Redirect
 
-This is a minimal GitHub Pages redirect page (`index.html`) that forwards visitors from `stuxdigital.github.io` to [github.com/StuxDigital](https://github.com/StuxDigital). This document is for anyone working on the redirect page itself.
+`stuxdigital.github.io` is a minimal GitHub Pages redirect page (`index.html`) that forwards visitors from `stuxdigital.github.io` to [github.com/StuxDigital](https://github.com/StuxDigital). This document is for anyone working on the redirect page itself.
 
 ## Local setup
 
